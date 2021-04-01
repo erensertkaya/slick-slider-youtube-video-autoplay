@@ -1,1 +1,1 @@
-(https://codepen.io/erensertkaya/pen/JjEEggg){:target="_blank" rel="noopener"}
+(https://codepen.io/erensertkaya/pen/JjEEggg)
