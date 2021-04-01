@@ -1,1 +1,1 @@
-(https://codepen.io/erensertkaya/pen/JjEEggg)
+https://codepen.io/erensertkaya/pen/JjEEggg
